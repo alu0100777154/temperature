@@ -3,16 +3,16 @@
 
 **Url del repositorio:** 
 
-[REPO](https://github.com/alu0100777154/temperature/tree/gh-pages)
+[Repositorio](https://github.com/alu0100777154/temperature/tree/gh-pages)
 
 **Page de la práctica:** 
 
-[PAGEP](http://alu0100777154.github.io/temperature/)
+[Práctica](http://alu0100777154.github.io/temperature/)
 
 **Page de los tests:** 
 
-[PAGET](http://alu0100777154.github.io/temperature/tests/)
+[Tests](http://alu0100777154.github.io/temperature/tests/)
 
 **Página personal**
 
-[PPAGE](http://alu0100777154.github.io)
+[Personal](http://alu0100777154.github.io)
