@@ -21,6 +21,7 @@
     "gulp-minify-html": "^1.0.4",
     "gulp-open": "^1.0.0",
     "gulp-uglify": "^1.4.1",
-    "gulp-util": "^3.0.6"
+    "gulp-util": "^3.0.6",
+    "mocha": "latest"
   }
   }
