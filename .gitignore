@@ -1,5 +1,6 @@
-nbproject
+nbproject/
 nbproject/private/
+node_modules/
 build/
 nbbuild/
 dist/
