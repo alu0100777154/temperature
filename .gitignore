@@ -1,3 +1,4 @@
+public_html/
 nbproject/
 nbproject/private/
 node_modules/
@@ -8,3 +9,4 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .nb-gradle/
+*.log
